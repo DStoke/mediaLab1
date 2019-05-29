@@ -1,17 +1,5 @@
 # mediaLab1
 
-Prideti mygtukai valdyti objektui:
-
-Pasukti
-
-Paversti
-
-Pastumti i kaire/de¨ine
-
-Pakelti i vir¨u/nuleisti i apacia
-
-Padidinti/Suma¸inti
-
 updated A-frame version
 
 This lab aims to build your first HTML5 live stream (HLS) player.

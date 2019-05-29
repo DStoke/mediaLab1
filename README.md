@@ -1,5 +1,19 @@
 # mediaLab1
 
+Prideti mygtukai valdyti objektui:
+
+Pasukti
+
+Paversti
+
+Pastumti i kaire/de¨ine
+
+Pakelti i vir¨u/nuleisti i apacia
+
+Padidinti/Suma¸inti
+
+updated A-frame version
+
 This lab aims to build your first HTML5 live stream (HLS) player.
 
 There are many open source alternatives. You can try to use as Video.js player as a startup: https://github.com/videojs/video.js
